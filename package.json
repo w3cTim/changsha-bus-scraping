@@ -1,0 +1,14 @@
+{
+  "name": "changsha-bus-scraping",
+  "version": "1.0.0",
+  "description": "长沙公交站台最繁忙排序",
+  "main": "bus_scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "w3cTim",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^14.4.1"
+  }
+}
